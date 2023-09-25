@@ -18,15 +18,16 @@
 
 # 목차
 
-
 > [!NOTE]
 > 목차는 언제든지 변경될 수 있습니다. 이 저장소의 글은 초안으로, 완성된 글은 위의 블로그 주소에서 확인하실 수 있습니다.
 
-
+- 
 - back-end
 	- spring framework
-		<details>
-
-		<summary>글 목록 펼쳐보기</summary>
-		- [spring boot 기반 프로젝트 생성하기](./back-end/spring framework/spring boot 기반 프로젝트 생성하기.md)
+		<details open>
+		<summary>글 목록</summary>
+		
+		* [spring boot 기반 프로젝트 생성하기](./back-end/spring%20framework/spring%20boot%20기반%20프로젝트%20생성하기.md)
+		
 		</details>
+
