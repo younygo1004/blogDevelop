@@ -1,16 +1,20 @@
   
 
-# 호그와트 개발자
+# 올빼미 개발자
 
   
 
-본 저장소는 **호그와트 개발자 블로그** 글의 초안이 작성되는 공간입니다.  모든 글은  `obsidian markdown` 기반으로 작성되어 있습니다.
+본 저장소는 **올빼미 개발자 블로그** 글의 초안이 작성되는 공간입니다.  모든 초안은  `obsidian markdown` 기반으로 작성되어 있으며, 블로그의 글은 tistory의 에디터를 이용하여 작성되어 있습니다. 또한 `mermaid`도 사용하고 있습니다.
 
-- 블로그 주소 : [호그와트 개발자](https://owl-ppaemi.tistory.com/)
+
+
+- 블로그 주소 : [올빼미 개발자](https://owl-ppaemi.tistory.com/)
 
 - obsidian 다운로드 링크 : [obsidian](https://obsidian.md/)
 
 - obsidian Help : [obsidian guides](https://help.obsidian.md/Home)
+
+- mermaid : [mermaid 홈페이지](https://mermaid.js.org/)
 
 ## 작성된 글 목록
 
