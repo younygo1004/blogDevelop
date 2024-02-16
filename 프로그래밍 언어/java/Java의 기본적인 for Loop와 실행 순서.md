@@ -185,3 +185,13 @@ i값 = 4, 내부 출력문 실행
 
 위의 실행 결과를 통해 초기식은 최초 1회만 실행된 것을 확인할 수 있다.
 그 이후는 내부 출력문 > i값을 증가시키는 3번째 실행문 > 조건식 검사를 진행한 후, 조건식이 false가 되는 즉시 for loop가 종료되는 것을 확인할 수 있다.
+```mermaid
+flowchart LR
+	first_initialize[초기식]
+	second_condition[조건식]
+	third_codes[내부 코드]
+	fourth_statement[실행문]
+	first_initialize --> second_condition --> third_codes --> fourth_statement --> second_condition
+
+
+```
